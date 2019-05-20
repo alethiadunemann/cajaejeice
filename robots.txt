@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iefahgaigu.plan-e.biz/sitemap.xml
